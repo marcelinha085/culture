@@ -1,4 +1,21 @@
 body{
     color:rgb(0, 0, 0);
     background: rgb(122, 123, 156);
+    font-family: "abril Fatface", serif;
+    margin: 0px;
+    margin-bottom: 100px
+}
+
+header {
+    border-bottom: solid 2px black;
+
+    padding: 20px;
+
+    font-size: 32px;
+
+    color: white;
+}
+
+.chamada{
+    
 }
